@@ -27,7 +27,7 @@ cd /tmp
 echo "${txtyellow} -¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¬ "
 echo "${txtyellow} -     Downloading XUI.One Files      - "
 echo "${txtyellow} L¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦- "
-wget https://server365.dev/xuione/xuifull.zip
+wget https://www.dropbox.com/scl/fi/wfw3n5e1lxpruv31ydnkr/xuifull.zip?rlkey=b3q3tstf5lgz6iyfptz52v0hf&st=pels2i50&dl=1
 unzip -o xuifull.zip
 sleep 3s
 unzip -o XUI.One-crack
